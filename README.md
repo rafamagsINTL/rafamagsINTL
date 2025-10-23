@@ -1,9 +1,7 @@
 ## Olá!   👋
 
-- 🔭 Hoje estudo e trabalho no Instituto Nacional de Telecomunicaçôes(INATEL)
-- 🌱 Atualmente estou aprendendo Java, MySql e Dart.
-- 👯
-- 🤔 
+- 🔭 Hoje estudo e trabalho no Instituto Nacional de Telecomunicaçôes (INATEL)
+- 🌱 
 - 💬 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamagsINTL)](https://github.com/anuraghazra/github-readme-stats)
