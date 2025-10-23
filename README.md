@@ -1,8 +1,14 @@
 ## Olá!   👋
 
+👩🏻‍💻 Engenheiro de Computação
+
 - 🔭 Hoje estudo e trabalho no Instituto Nacional de Telecomunicaçôes (INATEL)
 - 🌱 
 - 💬 
+
+---
+
+### 📊 Estatísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamagsINTL)](https://github.com/anuraghazra/github-readme-stats)
 
