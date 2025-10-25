@@ -1,6 +1,6 @@
 ## Olá!   👋
 
-👩🏻‍💻 Engenheiro de Computação
+**`👩🏻‍💻 Engenheiro de Computação`**
 
 - 🔭 Hoje estudo e trabalho no Instituto Nacional de Telecomunicaçôes (INATEL)
 - 🌱 
@@ -12,9 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamagsINTL&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-##
+###
  
 <div> 
   <a href="https://www.youtube.com/channel/UCA_-VKjzv1tX4FhPeEHmt1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
